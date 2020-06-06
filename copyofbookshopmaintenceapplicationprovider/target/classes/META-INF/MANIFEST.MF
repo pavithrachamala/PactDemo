@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: bookshopmaintenanceapplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HP
+Implementation-Vendor-Id: com.bookshopapp
+Build-Jdk: 1.8.0
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bookshopmaintenanceapplication
+Created-By: Maven Integration for Eclipse
+
