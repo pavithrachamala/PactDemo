@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PactConsumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HP
+Implementation-Vendor-Id: com.consumer
+Build-Jdk: 1.8.0
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PactConsumer
+Created-By: Maven Integration for Eclipse
+
